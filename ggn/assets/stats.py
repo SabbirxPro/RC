@@ -127,4 +127,4 @@ async def stats(event):
 
 
 
-# devggn | Team SPY
+# bdbots | Team SPY
